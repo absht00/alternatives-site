@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alternatives.stopoverpaying.com/sitemap.xml
